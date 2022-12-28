@@ -15,7 +15,7 @@ export default function Exprets () {
                     standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make
                      a type specimen book.
                 </p>
-                <button className='w-[30%] bg-black text-white p-3 rounded hover:bg-gray-700' >
+                <button className='md:w-[30%] bg-black text-white p-3 rounded hover:bg-gray-700' >
                     Get started
                 </button>
             </div>
